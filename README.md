@@ -1,3 +1,5 @@
+# Project was made from the book 'ng book The Complete Book on Angular 4' [Murray,Coury et al]
+
 # AngularHelloWorld
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
